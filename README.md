@@ -1,2 +1,2 @@
 # encryption-project
-basic encryption project using caeserCypher
+Basic encryption program using caeserCypher
